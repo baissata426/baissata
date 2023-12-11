@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aissata BA.
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning general computer science, i have'nt yet specialized.
-- 💞️ I’m looking to collaborate on the computer network.
+- 💞️ I’m looking to collaborate in HTML/CSS Java and C.
 - 📫 Reach me on my email baissata426@gmail.com
 
 <!---
